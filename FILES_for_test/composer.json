@@ -1,0 +1,10 @@
+{
+    "require": {
+        "twig/twig": "^2.1",
+        "silex/silex": "^2.0"
+    },
+    "scripts":{
+        "run0":"php -S localhost:8888",
+        "run":"php -S localhost:8888 -t ./public"
+    }
+}
